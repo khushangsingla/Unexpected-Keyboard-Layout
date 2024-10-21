@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<keyboard width="15" name="Custom Layout">
+  <row>
+    <key key0="`" key7="~"/>
+    <key key0="1" key7="!"/>
+    <key key0="2" key7="\@"/>
+    <key key0="3" key7="\#"/>
+    <key key0="4" key7="$"/>
+    <key key0="5" key7="%"/>
+    <key key0="6" key7="^"/>
+    <key key0="7" key7="p"/>
+    <key key0="8" key7="*"/>
+    <key key0="9" key7="("/>
+    <key key0="0" key7=")"/>
+    <key key0="-" key7="_"/>
+    <key key0="=" key7="+"/>
+    <key width="1.4" key0="backspace"/>
+  </row>
+  <row>
+    <key width="1.4" key0="tab"/>
+    <key key0="q"/>
+    <key key0="w"/>
+    <key key0="e"/>
+    <key key0="r"/>
+    <key key0="t"/>
+    <key key0="y"/>
+    <key key0="u"/>
+    <key key0="i"/>
+    <key key0="o"/>
+    <key key0="p"/>
+    <key key0="[" key7="{"/>
+    <key key0="]" key7="}"/>
+    <key key0="\\" key7="|"/>
+  </row>
+  <row>
+    <key width="1.6" key0="esc"/>
+    <key key0="a"/>
+    <key key0="s"/>
+    <key key0="d"/>
+    <key key0="f"/>
+    <key key0="g"/>
+    <key key0="h"/>
+    <key key0="j"/>
+    <key key0="k"/>
+    <key key0="l"/>
+    <key key0=";" key7=":"/>
+    <key key0="'" key7="&quot;"/>
+    <key width="1.8" key0="enter"/>
+  </row>
+  <row>
+    <key width="2" key0="shift"/>
+    <key key0="z"/>
+    <key key0="x"/>
+    <key key0="c"/>
+    <key key0="v"/>
+    <key key0="b"/>
+    <key key0="n"/>
+    <key key0="m"/>
+    <key key0="," key7="&lt;"/>
+    <key key0="." key7=">"/>
+    <key key0="/" key7="\?"/>
+    <key width="2" key0="shift"/>
+  </row>
+  <row>
+    <key key0="ctrl"/>
+    <key key0="fn"/>
+    <key key0="meta"/>
+    <key key0="alt"/>
+    <key width="5" key0="space"/>
+    <key key0="alt"/>
+    <key key0="ctrl"/>
+    <key key0="left"/>
+    <key key7="up" key8="down"/>
+    <key key0="right"/>
+  </row>
+</keyboard>
